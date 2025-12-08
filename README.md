@@ -35,11 +35,6 @@ A great exercise in game logic, state machines, and clean architecture.
 
 ---
 
-### 🔹 **Java Academic Projects**
-MoneyBox, ParkingLot, abstract classes & interfaces, data handling, Maven workflows — building solid OOP foundations.
-
----
-
 ## 🧠 Skills & Technologies
 **Programming:** Java, Python, C, PHP, SQL, JavaScript/TypeScript  
 **Web/App:** PHP/MySQL, React, API design, Git/GitHub workflows  
