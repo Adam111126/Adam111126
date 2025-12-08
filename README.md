@@ -23,7 +23,7 @@ Includes authentication, image processing, pixel mapping, export tools, and low-
 
 ---
 
-### 🔹 **Loup-Garou Game (Python / JS / Java - ongoing)**
+### 🔹 **Loup-Garou Game (Python / JS / Java - ongoing - Personal project)**
 An interactive digital version of the *Werewolf* game with:
 - role management  
 - dynamic narration  
