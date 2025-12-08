@@ -1,97 +1,61 @@
-👋 Hi, I'm Adam!
+# 👋 Hi, I'm Adam!
 
-I'm a computer science student passionate about building clean, efficient and creative solutions, whether it's through full-stack development, low-level programming, automation or product design.
-I love learning by building real projects, experimenting with new technologies, and pushing myself to grow through both academic and personal challenges.
+I'm a computer science student passionate about building clean, efficient and creative solutions — from full-stack development to low-level programming, automation, and product design.  
+I learn by building real projects, experimenting with new technologies, and constantly challenging myself.
 
-🚀 About Me
+---
 
-🎓 BUT Informatique student - Second year
+## 🚀 About Me
+- 🎓 **Second-year BUT Informatique student**
+- 💻 Interests: *software engineering, web development, automation, algorithms, product innovation, AI*
+- 🔧 Technologies: **Java, Python, C, PHP, SQL, JavaScript/TypeScript, Node.js, Fastify, Bash**
+- 🧩 Exploring **no-code & low-code** (Webflow, Bubble, Flutterflow, Make…)
+- 📈 Motivated by projects that mix creativity, technical depth, and real-world impact
 
-💻 Strong interest in software engineering, web development, automation, algorithms, product innovation and AI
+---
 
-🔧 Experienced across Java, Python, C, PHP, SQL, and various modern tools
+## 🛠️ Main Projects
 
-🧩 Also learning about no-code & low-code development (Webflow, Bubble, Flutterflow, Make…)
+### 🔹 **Image2Brick (PHP / SQL / C)**
+A web application that converts images into LEGO-style mosaics.  
+Includes authentication, image processing, pixel mapping, export tools, and low-level modules written in C for performance.
 
-📈 Highly motivated by projects that mix creativity, technical depth, and real-world impact
+---
 
-🛠️ Main Projects
-🔷 Image2Brick (PHP / SQL / C)
+### 🔹 **Loup-Garou Game (Python / JS / Java — ongoing)**
+An interactive digital version of the *Werewolf* game with:
+- role management  
+- dynamic narration  
+- voting system  
+- day/night cycle  
+- complex rule handling  
 
-A web application that converts images into LEGO-style mosaics.
-Includes user authentication, image processing, pixel mapping, export tools and a full server-side pipeline.
-I also implemented low-level components in C for performance-critical parts.
+A great exercise in game logic, state machines, and clean architecture.
 
-🔷 Loup-Garou Game (Narrator Version) — Python / JS / Java (still in developement)
+---
 
-A full interactive digital version of the "Werewolf" game featuring:
+### 🔹 **Java Academic Projects**
+MoneyBox, ParkingLot, abstract classes & interfaces, data handling, Maven workflows — building solid OOP foundations.
 
-role management
+---
 
-dynamic narration
+## 🧠 Skills & Technologies
+**Programming:** Java, Python, C, PHP, SQL, JavaScript/TypeScript  
+**Web/App:** PHP/MySQL, React, API design, Git/GitHub workflows  
+**Tools:** Bash, automation, low-code platforms
 
-voting system
+---
 
-day/night cycle
-
-UI interactions
-
-custom rules and complex conditions
-
-A great exercise in state machines, game logic, and clean code architecture.
-
-🔷 Java Mini-Projects (Academic)
-
-From algorithms to OOP architecture:
-
-MoneyBox
-
-ParkingLot
-
-Abstract classes & interfaces TP
-
-Data processing & error handling
-
-Maven-ready projects with documentation and diagrams
-
-A strong foundation in clean OOP design.
-
-🧠 Skills & Technologies
-💻 Programming
-
-Java, Python, C, PHP, SQL
-
-JavaScript, TypeScript
-
-Node.js, Fastify
-
-Bash scripting
-
-🌐 Web & App Dev
-
-PHP/MySQL full stack
-
-React & modern JS tools
-
-API design
-
-Git/GitHub workflows
-
-🎯 What I'm Looking For
-
+## 🎯 What I'm Looking For
 I'm always looking for:
+- innovative projects  
+- collaborations  
+- opportunities to learn and build meaningful tools  
 
-innovative projects
+My goal is to grow into a **versatile and reliable software engineer** capable of delivering real products.
 
-collaborations
+---
 
-opportunities to learn and build meaningful tools
-
-My goal is to grow into a versatile, creative and reliable software engineer capable of delivering real products.
-
-📫 Contact
-
-Feel free to reach out!
-
-Email: adamkadi303@gmail.com
-LinkedIn: https://www.linkedin.com/in/adamkadi/
+## 📫 Contact
+📧 **Email:** adamkadi303@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/adamkadi/
