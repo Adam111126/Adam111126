@@ -8,8 +8,9 @@ I learn by building real projects, experimenting with new technologies, and cons
 ## 🚀 About Me
 - 🎓 **Second-year BUT Informatique student**
 - 💻 Interests: *software engineering, web development, automation, algorithms, product innovation, AI*
-- 🔧 Technologies: **Java, Python, C, PHP, SQL, JavaScript/TypeScript, Node.js, Fastify, Bash**
-- 🧩 Exploring **no-code & low-code** (Webflow, Bubble, Flutterflow, Make…)
+- 🔧 Technologies: **Java, Python, C, PHP, SQL, JavaScript, Bash**
+- 🧩 Learning **no-code & low-code** (Webflow, Bubble, Flutterflow, Make…)
+- 🧩 Learning **machine learning/AI**
 - 📈 Motivated by projects that mix creativity, technical depth, and real-world impact
 
 ---
@@ -22,7 +23,7 @@ Includes authentication, image processing, pixel mapping, export tools, and low-
 
 ---
 
-### 🔹 **Loup-Garou Game (Python / JS / Java — ongoing)**
+### 🔹 **Loup-Garou Game (Python / JS / Java - ongoing)**
 An interactive digital version of the *Werewolf* game with:
 - role management  
 - dynamic narration  
