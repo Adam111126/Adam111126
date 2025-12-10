@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adam!
 
-I'm a computer science student passionate about building clean, efficient and creative solutions — from full-stack development to low-level programming, automation, and product design.  
+I'm a computer science student passionate about building clean, efficient and creative solutions, from full-stack development to low-level programming, automation, and product design.  
 I learn by building real projects, experimenting with new technologies, and constantly challenging myself.
 
 ---
