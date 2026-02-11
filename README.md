@@ -8,7 +8,7 @@ I learn by building real projects, experimenting with new technologies, and cons
 ## 🚀 About Me
 - 🎓 **Second-year BUT Informatique student**
 - 💻 Interests: *software engineering, web development, automation, algorithms, product innovation, AI*
-- 🔧 Technologies: **Java, Python, C, PHP, SQL, JavaScript, Bash**
+- 🔧 Technologies: **Java, Python, C, PHP, SQL, NoSQL, JavaScript, React.js, Bash**
 - 🧩 Learning **no-code & low-code** (Webflow, Bubble, Flutterflow, Make…)
 - 🧩 Learning **machine learning/AI**
 - 📈 Motivated by projects that mix creativity, technical depth, and real-world impact
@@ -36,7 +36,7 @@ A great exercise in game logic, state machines, and clean architecture.
 ---
 
 ## 🧠 Skills & Technologies
-**Programming:** Java, Python, C, PHP, SQL, JavaScript/TypeScript  
+**Programming:** Java, Python, C, PHP, SQL (MySQL, PostgreSQL), NoSQL (MongoDB), JavaScript/TypeScript, React.js
 **Web/App:** PHP/MySQL, React, API design, Git/GitHub workflows  
 **Tools:** Bash, automation, low-code platforms
 
